@@ -260,3 +260,5 @@ visibility: hidden;}
     border: 0;
 }
 .item-container {padding: 32px 0;}
+.logo-container {display: inline-block;
+    margin-bottom: 16px;}
