@@ -204,9 +204,9 @@ margin-bottom: 72px;}
 }
 .portfolio-item {
     background-color: #FFFFFF;
-    border: 2px solid #e7e9fc;
     width: calc((100% - 48px) / 3);
     text-align: center;
+    row-gap: 48px;
 }
 .portfolio-list {
     display: flex;
