@@ -167,7 +167,7 @@ margin-left: auto;}
 
 
 .item-paraghraf { font-size: 14px;
-    display: block;
+    display: flex;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
