@@ -167,12 +167,13 @@ margin-left: auto;}
 
 
 .item-paraghraf { font-size: 14px;
-    display: flex;
+    display: block;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
     max-width: 264px;
     text-align: left;
+    font-weight: 100;
 }
 .team-header {font-size: 36px;
     display: block;
