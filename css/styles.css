@@ -147,6 +147,8 @@ margin-left: auto;}
     letter-spacing: 0.02em;
     color: #2e2f42;
     margin-right: 24px;
+    width: 264px;
+    flex-shrink: 0;
     }
 .item-header {font-weight: 500;
     font-size: 20px;
@@ -169,13 +171,13 @@ margin-left: auto;}
 
 
 .item-paraghraf { font-size: 16px;
-    display: block;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #434455;
-    max-width: 264px;
     text-align: left;
     font-weight: 400;
+    max-width: 264px;
+    
 }
 .team-header {font-size: 36px;
     display: block;
@@ -232,19 +234,17 @@ address {font-style: normal}
 .benefits-container {
     display: flex;
     gap: 24px;
-    margin-right: 152px;
-    margin-left: 152px;
+    justify-content: space-between;
+    flex-wrap: nowrap;
 }
 .benefits {
     align-items: center;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-margin-bottom: 24px;
 visibility: hidden;}
 .benefits-list-container{
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding: 120px 0;
     display: block;
     border-bottom: 1px solid #e7e9fc;
 }
