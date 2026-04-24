@@ -245,8 +245,7 @@ address {font-style: normal}
 .portfolio {background-color: #ffffff;
     place-items: center;
     padding-top: 120px; padding-bottom: 120px; }
-.portfolio-container{
-}
+
 .visually-hidden {
     position: absolute;
     width: 1px;
