@@ -234,7 +234,6 @@ address {font-style: normal}
 .container {
     max-width: 1158px;
     padding: 0 15px;
-    margin: auto;
 }
 .benefits-container {
     display: flex;
