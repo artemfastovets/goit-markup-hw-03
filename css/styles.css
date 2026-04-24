@@ -234,7 +234,6 @@ address {font-style: normal}
 }
 .benefits-container {
     display: flex;
-    justify-content: space-between;
     flex-wrap: nowrap;
 }
 .benefits {
