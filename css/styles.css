@@ -103,7 +103,8 @@ margin-left: auto;}
     font-weight: 400;
     max-width: 264px;}
 .team {background-color: #F4F4FD;
-    place-items: center;}
+    place-items: center;
+    padding: 120px 0;}
 .button-section {
     background-color: #2e2f42;
 }
@@ -189,6 +190,7 @@ margin-left: auto;}
     border-radius: 0px 0px 4px 4px;
     display: block;
     text-align: center;
+    width: calc((100% - 72px) / 4);
     }
 .portfolio-header {font-size: 36px;
     line-height: 1.11;
@@ -280,4 +282,3 @@ display: block;}
 .benefits-section{
     padding: 120px 0 120px
 }
-.portfolio-section{padding: 0;}
