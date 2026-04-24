@@ -228,10 +228,7 @@ address {font-style: normal}
     letter-spacing: 0.02em;}
 .contact-list {color: #434455 }
 .contact-item {color: #434455;}
-.container {
-    max-width: 1158px;
-    padding: 0 15px;
-}
+
 .benefits-container {
     gap: 24px;
     display: flex;
